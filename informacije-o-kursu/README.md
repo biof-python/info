@@ -32,11 +32,11 @@
 
 - [Званична Python документација (на енглеском)](https://www.python.org/){:target="_blank"}
 
-- АI модели (ChatGPT, Perplexity, Microsoft Copilot и сл.), као и Интернет претраживачи (Google, Bing и сл.) су ваши помоћници!
+- АI модели ([ChatGPT](https://chatgpt.com/){:target="_blank"}, [Perplexity](https://www.perplexity.ai/){:target="_blank"}, [Microsoft Copilot](https://copilot.microsoft.com/){:target="_blank"} и сл.), као и Интернет претраживачи ([Google](https://www.google.com/){:target="_blank"}, [Bing](https://bing.com/){:target="_blank"}, [Yandex](https://yandex.com/){:target="_blank"} и сл.) су ваши помоћници!
 
 ## Начин полагања испита
 
-- Предиспитна обавеза (може полагати током целе школске године):
+- Предиспитне обавезе:
 
   - Два колоквијума (носе 30 + 40 поена).
 
