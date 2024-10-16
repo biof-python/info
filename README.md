@@ -14,4 +14,4 @@
 
 **[Предавања](predavanja/README.md)**
 
-**[Вежбе](predavanja/README.md)**
+**[Вежбе](vezbe/README.md)**
