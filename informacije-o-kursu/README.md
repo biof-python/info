@@ -20,13 +20,13 @@
 
 - M. Ковачевић, Основе програмирања у Python-у, Грађевиснки факултет у Београду, 2021.  
 
-- Ф. Марић и остали: [Методичка збирка задатака из основа програмирања (Python)](https://petlja.org/sr-Latn-RS/biblioteka/r/Zbirka-python/01%20Aritmetika){:target="_blank"}, ДМС и Петља, 2019.  
-
 Изабрани делови горе наведене литература се налазе у истом гитхaб репозиторијуму у ком се налази и ова презентација, у оквиру директоријума `/predavanja/knjige`.
 
 На интернету се може наћи још доста додатне он-лајн литературе и примера за вежбу:
 
-- [Збирка Петља](https://petlja.org/sr-Latn-RS/biblioteka/r/lekcije/TxtProgInPythonSrLat/02_console-toctree){:target="_blank"}
+- [Он-лајн Уџбеник програмирања (Пајтон)](https://petlja.org/sr-Latn-RS/biblioteka/r/lekcije/TxtProgInPythonSrLat/02_console-toctree){:target="_blank"}, Петља.
+
+- [Он-лајн Методичка збирка задатака из програмирања (Пајтон)](https://petlja.org/sr-Latn-RS/biblioteka/r/Zbirka-python/01%20Aritmetika){:target="_blank"}, ДМС и Петља.  
 
 - [Званична Python документација (на енглеском)](https://www.python.org/){:target="_blank"}
 
