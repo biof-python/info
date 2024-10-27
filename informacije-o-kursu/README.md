@@ -2,7 +2,7 @@
 
 [ОПП](../README.md)
 
-Курс **Основи програмирања у Пajтону** у академској 2024/25 години реализује наставник [Владимир Филиповић](https://vladofilipovic.github.io/index-cy.html){:target="_blank"}.
+Курс **Основи програмирања у Пajтону** у академској 2024/25 години реализују [Владимир Филиповић](https://vladofilipovic.github.io/index-cy.html){:target="_blank"} и Милоје Јоксимовић.
 
 ## План и програм
 
@@ -10,7 +10,13 @@
 
 ## Литература
 
-Основна литература за овај курс је књига [Python for Biоlogists](https://pythonforbiologists.com/){:target="_blank"},  аутора M. Jones, 2013.
+Основна литература за овај курс су књиге:
+
+- M. Jones, Python for Biоlogists [сајт]](https://pythonforbiologists.com/){:target="_blank"} [вежбања](https://pythonforbiologists.com/static/p4b_exercises.zip)
+
+- М. Jones, Advanced Python for Biologists [вежбања](https://pythonforbiologists.com/static/ap4b_exercises.zip)
+
+- М. Jones, Biological Data Exploration [сајт]](https://pythonforbiologists.com/biological-data-exploration-book.html){:target="_blank"} [вежбања](https://pythonforbiologists.com/static/bde_files.zip)
 
 Додатна литература:
 
