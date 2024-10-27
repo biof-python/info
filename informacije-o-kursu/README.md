@@ -12,11 +12,11 @@
 
 Основна литература за овај курс су књиге:
 
-- M. Jones, Python for Biоlogists [сајт]](https://pythonforbiologists.com/){:target="_blank"} [вежбања](https://pythonforbiologists.com/static/p4b_exercises.zip)
+- M. Jones, Python for Biоlogists [сајт](https://pythonforbiologists.com/){:target="_blank"} [вежбања](https://pythonforbiologists.com/static/p4b_exercises.zip)
 
 - М. Jones, Advanced Python for Biologists [вежбања](https://pythonforbiologists.com/static/ap4b_exercises.zip)
 
-- М. Jones, Biological Data Exploration [сајт]](https://pythonforbiologists.com/biological-data-exploration-book.html){:target="_blank"} [вежбања](https://pythonforbiologists.com/static/bde_files.zip)
+- М. Jones, Biological Data Exploration [сајт](https://pythonforbiologists.com/biological-data-exploration-book.html){:target="_blank"} [вежбања](https://pythonforbiologists.com/static/bde_files.zip)
 
 Додатна литература:
 
