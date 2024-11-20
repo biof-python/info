@@ -4,9 +4,11 @@
 
 ## Актуелне информације
 
-[Термин и место за предавања](predavanja/info/README.md)
+[Први колоквијум](predavanja/info/README.md)
 
-[Термин и место за вежбе](vezbe/info/README.md)
+<!--[Термин и место за предавања](predavanja/info/README.md)-->
+
+<!--[Термин и место за вежбе](vezbe/info/README.md)-->
 
 ## Настава
 
