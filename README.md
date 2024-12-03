@@ -4,6 +4,8 @@
 
 ## Актуелне информације
 
+[Први колоквијум је одложен](predavanja/info/README.md)
+
 [Први колоквијум](predavanja/info/README.md)
 
 <!--[Термин и место за предавања](predavanja/info/README.md)-->
